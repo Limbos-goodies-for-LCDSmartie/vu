@@ -1,6 +1,8 @@
 # vu
 A plugin to create VU meter son your LCD Screen for the master volume output
 
+![preview](https://github.com/Limbos-goodies-for-LCDSmartie/vu/assets/331155/eea4b048-c00d-4366-ac1d-508acf08ce0b)
+
 ### Instructions
 Copy the vu.dll and CoreAudioApi.dll to LCD Smartie plugins folder.
 Set dll check interval to a value lower than 100 milliseconds. 
